@@ -1,0 +1,26 @@
+1. open teacher activity 1 JkR and explain:
+menu items 
+
+
+2. Open in brackets the code and explain using : HTML tree generator 
+
+  note : each menu will link to a page which we will cover in next class 
+
+Tags used: 
+<ul> : unordered list :   list is used for any list without
+numbering
+
+<li >: List items 
+
+
+
+
+
+
+CSS :
+.menu
+ style : None to avoid bullets  
+Position: Fixed so menu will be fixed no matter if u scroll the page 
+if it is absolute the menu wont go along with the page while scrolling 
+
+
